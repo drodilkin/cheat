@@ -11,8 +11,8 @@ from aiogram.filters import Command
 from aiogram.types import LabeledPrice, PreCheckoutQuery
 
 # --- НАСТРОЙКИ ---
-BOT_TOKEN = "ТВОЙ_ТОКЕН_ОТ_BOTFATHER"
-GOOGLE_SHEET_NAME = "Название_Твоей_Таблицы" # Точь-в-точь как в Google
+BOT_TOKEN = "8672571857:AAGUsKf4ySxbVypoy7OqhDGN9CwbJFUj8Eg"
+GOOGLE_SHEET_NAME = "privet" # Точь-в-точь как в Google
 
 # --- ПОДКЛЮЧЕНИЕ К GOOGLE TABLES ---
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
